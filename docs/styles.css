@@ -1,0 +1,11 @@
+body {
+    width: 1000px;padding: 0 140px;
+    margin: 50px 50px;
+  border: 1px solid black;
+  text-align:justify;
+  background-color: #90D8DB;
+}
+
+p, h1, div, h2 {border: 1px solid black;}
+/*<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet">*/
+ 
